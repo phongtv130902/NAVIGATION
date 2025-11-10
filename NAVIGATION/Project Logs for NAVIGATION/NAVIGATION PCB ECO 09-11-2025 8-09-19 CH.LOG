@@ -1,0 +1,30 @@
+Added Component: Designator=R94(RES-CHP0402-0.35H)
+Add component (AddParameter): Name = "CERTIFICATION"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CLASS"; Value = "B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-AC0402FR-0710KL_C144807.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LINE"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUNT"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NOTE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMG CODE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "EP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT"; Value = "PCS"; VariantName = "[No Variations]"
+Added Component: Designator=R95(RES-CHP0402-0.35H)
+Add component (AddParameter): Name = "CERTIFICATION"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CLASS"; Value = "B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-AC0402FR-0710KL_C144807.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LINE"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUNT"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NOTE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMG CODE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "EP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT"; Value = "PCS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SDA Pin=R94-1
+Added Pin To Net: NetName=3.3VA Pin=R94-2
+Added Pin To Net: NetName=SCL Pin=R95-1
+Added Pin To Net: NetName=3.3VA Pin=R95-2
+Added Member To Class: ClassName=U_NAVIGATION - MCU Member=Component R94 10K
+Added Member To Class: ClassName=U_NAVIGATION - MCU Member=Component R95 10K

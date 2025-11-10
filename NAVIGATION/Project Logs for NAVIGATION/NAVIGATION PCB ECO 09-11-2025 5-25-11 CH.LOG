@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R93
+Added Component: Designator=MH1(M3)
+Added Component: Designator=MH2(M3)
+Added Component: Designator=MH3(M3)
+Added Component: Designator=MH4(M3)
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR93_2
+Added Member To Class: ClassName=U_NAVIGATION - MCU Member=Component MH1 MOUNTING HOLE
+Added Member To Class: ClassName=U_NAVIGATION - MCU Member=Component MH2 MOUNTING HOLE
+Added Member To Class: ClassName=U_NAVIGATION - MCU Member=Component MH3 MOUNTING HOLE
+Added Member To Class: ClassName=U_NAVIGATION - MCU Member=Component MH4 MOUNTING HOLE
+Added Room: Name=U_NAVIGATION - MCU
+Added Room: Name=U_NAVIGATION-PHERIPHERAL
+Added Room: Name=U_NAVIGATION - POWER
+Added Room: Name=U_NAVIGATION - SERVO
