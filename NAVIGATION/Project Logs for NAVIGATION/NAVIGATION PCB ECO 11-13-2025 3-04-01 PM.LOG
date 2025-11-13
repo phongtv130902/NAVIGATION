@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=GND Pin=J12-SH1
+Removed Pin From Net: NetName=GND Pin=J12-SH4
+Removed Pin From Net: NetName=GND Pin=J12-SH5
+Removed Pin From Net: NetName=GND Pin=J12-SH6
+Change Component Description : Designator=C88 Old Description=Capacitor Aluminum Electrolytic Cap1000uF 25V 20% Radial 12.5X25 LS 5mm New Description=Capacitor Aluminum Electrolytic Cap1000uF 25V 20% Radial 12.5X25 LS 5mm | Nichicon UPM1E102MHD
+Change Component Description : Designator=Q2 Old Description=IRLB8721PBF N-channel MOSFET Transistor, 62 A, 30 V, 3-Pin TO-220AB New Description=IRLB8721PBF N-channel MOSFET Transistor, 62 A, 30 V, 3-Pin TO-220AB | Infineon IRLB8721PBF
+Change Component Description : Designator=Q3 Old Description=IRLB8721PBF N-channel MOSFET Transistor, 62 A, 30 V, 3-Pin TO-220AB New Description=IRLB8721PBF N-channel MOSFET Transistor, 62 A, 30 V, 3-Pin TO-220AB | Infineon IRLB8721PBF
+Added Pin To Net: NetName=CHASIS Pin=J12-SH1
+Added Pin To Net: NetName=CHASIS Pin=J12-SH4
+Added Pin To Net: NetName=CHASIS Pin=J12-SH5
+Added Pin To Net: NetName=CHASIS Pin=J12-SH6
+Added Pin To Net: NetName=CHASIS Pin=MH1-1
+Added Pin To Net: NetName=CHASIS Pin=MH1-1
+Added Pin To Net: NetName=CHASIS Pin=MH1-1
+Added Pin To Net: NetName=CHASIS Pin=MH1-1
+Added Pin To Net: NetName=CHASIS Pin=MH1-1
+Added Pin To Net: NetName=CHASIS Pin=MH1-1
+Added Pin To Net: NetName=CHASIS Pin=MH1-1
+Added Pin To Net: NetName=CHASIS Pin=MH1-1
+Added Pin To Net: NetName=CHASIS Pin=MH1-1
+Added Pin To Net: NetName=CHASIS Pin=MH2-1
+Added Pin To Net: NetName=CHASIS Pin=MH2-1
+Added Pin To Net: NetName=CHASIS Pin=MH2-1
+Added Pin To Net: NetName=CHASIS Pin=MH2-1
+Added Pin To Net: NetName=CHASIS Pin=MH2-1
+Added Pin To Net: NetName=CHASIS Pin=MH2-1
+Added Pin To Net: NetName=CHASIS Pin=MH2-1
+Added Pin To Net: NetName=CHASIS Pin=MH2-1
+Added Pin To Net: NetName=CHASIS Pin=MH2-1
+Added Pin To Net: NetName=CHASIS Pin=MH3-1
+Added Pin To Net: NetName=CHASIS Pin=MH3-1
+Added Pin To Net: NetName=CHASIS Pin=MH3-1
+Added Pin To Net: NetName=CHASIS Pin=MH3-1
+Added Pin To Net: NetName=CHASIS Pin=MH3-1
+Added Pin To Net: NetName=CHASIS Pin=MH3-1
+Added Pin To Net: NetName=CHASIS Pin=MH3-1
+Added Pin To Net: NetName=CHASIS Pin=MH3-1
+Added Pin To Net: NetName=CHASIS Pin=MH3-1
+Added Pin To Net: NetName=CHASIS Pin=MH4-1
+Added Pin To Net: NetName=CHASIS Pin=MH4-1
+Added Pin To Net: NetName=CHASIS Pin=MH4-1
+Added Pin To Net: NetName=CHASIS Pin=MH4-1
+Added Pin To Net: NetName=CHASIS Pin=MH4-1
+Added Pin To Net: NetName=CHASIS Pin=MH4-1
+Added Pin To Net: NetName=CHASIS Pin=MH4-1
+Added Pin To Net: NetName=CHASIS Pin=MH4-1
+Added Pin To Net: NetName=CHASIS Pin=MH4-1

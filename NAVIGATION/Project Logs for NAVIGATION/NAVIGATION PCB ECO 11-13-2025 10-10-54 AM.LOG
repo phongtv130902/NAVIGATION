@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=3.3VA Pin=P7-1
+Removed Pin From Net: NetName=GND Pin=P8-2
+Removed Member From Class: ClassName=U_NAVIGATION-PHERIPHERAL Member=P7
+Removed Member From Class: ClassName=U_NAVIGATION-PHERIPHERAL Member=P8
+Added Component: Designator=R99(RES-CHP0402-0.35H)
+Add component (AddParameter): Name = "CERTIFICATION"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CLASS"; Value = "B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-AC0402FR-0710KL_C144807.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LINE"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUNT"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NOTE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMG CODE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "EP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT"; Value = "PCS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R99-1
+Added Pin To Net: NetName=NetR99_2 Pin=R99-2
+Added Pin To Net: NetName=NetR99_2 Pin=U11-2
+Added Net: Name=NetR99_2
+Added Member To Class: ClassName=U_NAVIGATION-PHERIPHERAL Member=Component R99 10K

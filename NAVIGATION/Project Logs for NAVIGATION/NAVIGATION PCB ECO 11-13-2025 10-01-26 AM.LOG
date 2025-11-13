@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=SERVO4 Pin=R65-1
+Change Component Description : Designator=Q2 Old Description=IRLB8721PBF N-channel MOSFET Transistor, 62 A, 30 V, 3-Pin TO-220AB New Description=IRLB8721PBF N-channel MOSFET Transistor, 62 A, 30 V, 3-Pin TO-220AB | Infineon IRLB8721PBF
+Change Component Description : Designator=Q3 Old Description=IRLB8721PBF N-channel MOSFET Transistor, 62 A, 30 V, 3-Pin TO-220AB New Description=IRLB8721PBF N-channel MOSFET Transistor, 62 A, 30 V, 3-Pin TO-220AB | Infineon IRLB8721PBF
+Added Component: Designator=C88(CAPPRD500W80D1250H2700)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/UPM1E102MHD/Nichicon/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "UPM1E102MHD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/UPM1E102MHD/Nichicon/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C89(CAPPRD500W80D1250H2700)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/UPM1E102MHD/Nichicon/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "UPM1E102MHD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/UPM1E102MHD/Nichicon/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R75(RES-CHP0402-0.35H)
+Add component (AddParameter): Name = "CERTIFICATION"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CLASS"; Value = "B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-AC0402FR-0710KL_C144807.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LINE"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUNT"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NOTE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMG CODE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "EP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT"; Value = "PCS"; VariantName = "[No Variations]"
+Added Component: Designator=R96(RES-CHP0402-0.35H)
+Add component (AddParameter): Name = "CERTIFICATION"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CLASS"; Value = "B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-AC0402FR-0710KL_C144807.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LINE"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUNT"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NOTE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMG CODE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "EP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT"; Value = "PCS"; VariantName = "[No Variations]"
+Added Component: Designator=R97(RES-CHP0402-0.35H)
+Add component (AddParameter): Name = "CERTIFICATION"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CLASS"; Value = "B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-AC0402FR-0710KL_C144807.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LINE"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUNT"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NOTE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMG CODE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "EP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT"; Value = "PCS"; VariantName = "[No Variations]"
+Added Component: Designator=R98(RES-CHP0402-0.35H)
+Add component (AddParameter): Name = "CERTIFICATION"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CLASS"; Value = "B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-AC0402FR-0710KL_C144807.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LINE"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MOUNT"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NOTE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TMG CODE"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "EP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UNIT"; Value = "PCS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C88-N
+Added Pin To Net: NetName=+5V Pin=C88-P
+Added Pin To Net: NetName=GND Pin=C89-N
+Added Pin To Net: NetName=+5V Pin=C89-P
+Added Pin To Net: NetName=SERVO5 Pin=R65-1
+Change Net Name : Old Net Name=JT2_CLK New Net Name=SWCLK2
+Change Net Name : Old Net Name=JT2_SDIO New Net Name=SWDIO2
+Change Net Name : Old Net Name=JT3_CLK New Net Name=SWCLK3
+Change Net Name : Old Net Name=JT3_SDIO New Net Name=SWDIO3
+Change Net Name : Old Net Name=SD_CD New Net Name=SD_CLK
+Added Pin To Net: NetName=NetR75_1 Pin=R75-1
+Added Pin To Net: NetName=NetR75_1 Pin=U5-38
+Added Net: Name=NetR75_1
+Added Pin To Net: NetName=NetR96_1 Pin=R96-1
+Added Pin To Net: NetName=NetR96_1 Pin=U6-38
+Added Net: Name=NetR96_1
+Added Pin To Net: NetName=NetR97_1 Pin=R97-1
+Added Pin To Net: NetName=NetR97_1 Pin=U5-39
+Added Net: Name=NetR97_1
+Added Pin To Net: NetName=NetR98_1 Pin=R98-1
+Added Pin To Net: NetName=NetR98_1 Pin=U6-39
+Added Net: Name=NetR98_1
+Added Pin To Net: NetName=SWCLK Pin=J4-2
+Added Pin To Net: NetName=SWCLK Pin=J4-4
+Added Pin To Net: NetName=SWCLK Pin=R30-2
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=UART7_Rx2 Pin=R75-2
+Added Pin To Net: NetName=UART7_Rx2 Pin=R98-2
+Added Net: Name=UART7_Rx2
+Added Pin To Net: NetName=UART7_Tx2 Pin=R96-2
+Added Pin To Net: NetName=UART7_Tx2 Pin=R97-2
+Added Net: Name=UART7_Tx2
+Added Member To Class: ClassName=U_NAVIGATION - SERVO Member=Component C88 UPM1E102MHD
+Added Member To Class: ClassName=U_NAVIGATION - SERVO Member=Component C89 UPM1E102MHD
+Added Member To Class: ClassName=U_NAVIGATION - MCU Member=Component R75 22R
+Added Member To Class: ClassName=U_NAVIGATION - MCU Member=Component R96 22R
+Added Member To Class: ClassName=U_NAVIGATION - MCU Member=Component R97 22R
+Added Member To Class: ClassName=U_NAVIGATION - MCU Member=Component R98 22R

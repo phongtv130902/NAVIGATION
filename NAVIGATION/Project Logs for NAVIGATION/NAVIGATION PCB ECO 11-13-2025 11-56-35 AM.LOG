@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=PI_RX Pin=J1-1
+Removed Pin From Net: NetName=PI_SCK Pin=J1-2
+Removed Pin From Net: NetName=PI_MISO Pin=J1-4
+Removed Pin From Net: NetName=PI_NSS Pin=J1-5
+Removed Pin From Net: NetName=PI_TX Pin=J1-6
+Added Pin To Net: NetName=PI_NSS Pin=J1-1
+Added Pin To Net: NetName=PI_MISO Pin=J1-2
+Added Pin To Net: NetName=PI_SCK Pin=J1-4
+Added Pin To Net: NetName=PI_TX Pin=J1-5
+Added Pin To Net: NetName=PI_RX Pin=J1-6
+Added Member To Class: ClassName=U_NAVIGATION - SERVO Member=Component U12 SN74HCT541PWR
